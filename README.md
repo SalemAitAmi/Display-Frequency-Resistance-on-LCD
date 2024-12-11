@@ -2,10 +2,10 @@
 
 <!-- Title -->
 <div align="center">
-<h3 align="center">Traffic Light System</h3>
+<h3 align="center">Display Frequency & Resistance on LCD</h3>
 
   <p align="center">
-    A single lane traffic simulation using FreeRTOS & STM32F405 MCU
+    A Hands-On Approach to Microcontroller-Based Systems
   </p>
 </div>
 
